@@ -1,6 +1,6 @@
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtSql import *
-from affichage import *
+from traffic import *
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
 except AttributeError:
