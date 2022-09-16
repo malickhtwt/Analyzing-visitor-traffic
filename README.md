@@ -1,6 +1,6 @@
 # Analyzing-visitor-traffic
 
-this applocation allows to control visitor traffic.
+Application built to control visitor traffic.
 
 It analyzes the visitors traffic with data gathered based on the floor, the building name and the reason of their visit. 
 
